@@ -9,6 +9,7 @@ Projeto de iniciação científica em Ciência da Computação na UFSCar. O estu
 A CNN alcançou 94,2% de acurácia na comparação apresentada no pôster do CIC. Entre os modelos com HOG, o melhor resultado foi o da SVM com kernel RBF (86,5%).
 
 ![Tabela do pôster com acurácia, precisão, recall e F1 dos quatro classificadores](figuras/comparacao-modelos.png)
+Figura 1. Comparação dos quatro modelos de detecção de faces falsas. A CNN obteve a maior acurácia (94,2%), seguida pela SVM com HOG (86,5%).
 
 ## Experimento disponível
 
